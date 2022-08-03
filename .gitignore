@@ -6,6 +6,8 @@
 *.lo
 *.o
 *.obj
+c/coin/**
+cpp/coin/**
 
 # Precompiled Headers
 *.gch
